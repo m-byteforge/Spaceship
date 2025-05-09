@@ -1,0 +1,24 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+
+# Scripts and Sounds (as requested)
+/Scripts/
+/Sounds/
+
+# Source Library (assuming this is a custom folder)
+/Source Library/
+Assets/TextMesh Pro/Examples & Extras/
+
+# VSCode and other IDE files
+.vscode/
+*.sln
+*.csproj
+
+# Windows and Mac files
+.DS_Store
+*.meta
+Thumbs.db
