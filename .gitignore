@@ -12,6 +12,7 @@
 # Source Library (assuming this is a custom folder)
 /Source Library/
 Assets/TextMesh Pro/Examples & Extras/
+Assets/
 
 # VSCode and other IDE files
 .vscode/
