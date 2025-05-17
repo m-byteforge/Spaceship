@@ -26,3 +26,4 @@ Navigate a spaceship in a top-down 2D view, avoiding boulders and collecting orb
 ## Play Now
 
 Play the game here: [Spaceship Game](https://m-byteforge.github.io/Spaceship/)
+
