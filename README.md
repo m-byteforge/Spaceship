@@ -1,11 +1,15 @@
 # Spaceship Game
 
-**Spaceship Game** is a 2D arcade-style game built in Unity where you pilot a spaceship through space, dodging meteors (boulders) and collecting energy orbs to survive. Progress through three levels, each with a unique spaceship model designed in Blender. Play the game directly on your PC [here]
+**Spaceship Game** is a 2D arcade-style game built in Unity where you pilot a spaceship through space, dodging meteors (boulders) and collecting energy orbs to survive. Progress through three levels, each with a unique spaceship model designed in Blender.
+
 ## About the Game
+
 Navigate a spaceship in a top-down 2D view, avoiding boulders and collecting orbs to earn points and advance through three increasingly difficult levels. Originally planned as a 3D game, it was switched to 2D using Unity’s 2D tools for timely completion. Features include:
+
 - Three unique spaceship models (Blender).
 
 ## Game Rules
+
 - **Objective**: Reach 365 points to complete all levels (165 for Level 2, 265 for Level 3).
 - **Controls**:
   - Move: `W`, `A`, `S`, `D` or arrow keys.
@@ -20,18 +24,5 @@ Navigate a spaceship in a top-down 2D view, avoiding boulders and collecting orb
 - **Ship Selection**: After 365 points, replay with any spaceship (0 points, 50% energy).
 
 ## Play Now
-Play the game on PC: [Spaceship Game]
 
-
-
-```
-Spaceship
-├─ Build
-│  ├─ Spaceship.data
-│  ├─ Spaceship.framework.js
-│  ├─ Spaceship.loader.js
-│  └─ Spaceship.wasm
-├─ index.html
-└─ README.md
-
-```
+Play the game here: [Spaceship Game](https://m-byteforge.github.io/Spaceship/)
