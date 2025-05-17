@@ -23,3 +23,16 @@ Navigate a spaceship in a top-down 2D view, avoiding boulders and collecting orb
 ## Play Now
 Play the game on PC: [Spaceship Game](https://m-byteforge.github.io/Spaceship/)
 
+
+
+```
+Spaceship
+├─ Build
+│  ├─ Spaceship.data
+│  ├─ Spaceship.framework.js
+│  ├─ Spaceship.loader.js
+│  └─ Spaceship.wasm
+├─ index.html
+└─ README.md
+
+```
